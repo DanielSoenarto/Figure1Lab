@@ -53,7 +53,7 @@ There were two most prominent RHPs that reflected the cell cycle and the other 1
 The relation was that they found 7 out of the 10 cell line RHPs are highly similar to the _in vivo_ RHPs, as defined by highly significant overlap of signature genes, through statistical methods such as FDR-adjusted p value and Jaccard index correlation plots. They further supported this finding through analysis of both melanoma and HNSCC cells from cell lines and tumors.
 
 ### Where can you download the scRNA-seq data as shown in Figure 1B?
-The scRNA-seq data in Figure 1B can be downloaded from the Broad Institute’s single cell portal (SCP542)
+The scRNA-seq data in Figure 1B can be downloaded from the Broad Institute’s single cell portal (SCP542) at https://singlecell.broadinstitute.org/single_cell/study/SCP542/pan-cancer-cell-line-heterogeneity#study-download
 
 ## References
 Gajria, D., & Chandarlapaty, S. (2011). HER2-amplified breast cancer: mechanisms of trastuzumab resistance and novel targeted therapies. Expert Review of Anticancer Therapy, 11(2), 263–275. https://doi.org/10.1586/era.10.226
