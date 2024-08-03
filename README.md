@@ -1,5 +1,5 @@
 # Figure 1 Lab
-This is an internship emulator by Dean Lee (https://www.linkedin.com/pulse/introducing-f1l-internship-emulator-dean-lee-xckee/?trackingId=OSGSU27GSGG2casuU42SFA%3D%3D)
+This is an internship emulator by [Dean Lee](https://github.com/deanslee/FigureOneLab): [F1L on Linkedin](https://www.linkedin.com/pulse/introducing-f1l-internship-emulator-dean-lee-xckee/?trackingId=OSGSU27GSGG2casuU42SFA%3D%3D)
 
 # Week 1
 Key scientific question (KSQ): How can we use the available scRNA-seq data from cancer cell lines whether these cancers are treatable using Trastuzumab and Bevacizumab?
